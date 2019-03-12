@@ -1,6 +1,8 @@
 package com.finanx.main;
 
 // Bank Account Object
+
+/*
 class Account {
     // Account Details
     public String accName;
@@ -107,4 +109,4 @@ class Card {
 
 }
 
-
+*/
